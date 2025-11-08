@@ -1,0 +1,50 @@
+absl-py==2.1.0
+Bottleneck @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_55txi4fy1u/croot/bottleneck_1731058642212/work
+chex==0.1.88
+contourpy @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_2cvjf0v4ux/croot/contourpy_1732540055997/work
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+diffrax==0.6.2
+equinox==0.11.11
+etils==1.11.0
+filelock==3.16.1
+fonttools==4.55.3
+fsspec==2024.12.0
+jax==0.4.38
+jax-tqdm==0.3.1
+jaxlib==0.4.38
+jaxopt==0.8.3
+jaxtyping==0.2.36
+Jinja2==3.1.5
+jinns==1.6.1
+kiwisolver @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_cc2l_z_0ri/croot/kiwisolver_1737039586949/work
+lineax==0.0.7
+MarkupSafe==3.0.2
+matplotlib==3.10.5
+ml_dtypes==0.5.1
+mpmath==1.3.0
+networkx==3.4.2
+numexpr @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_b3kvvt6tc6/croot/numexpr_1730215947700/work
+numpy @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_245oeom5c7/croot/numpy_and_numpy_base_1736500455775/work/dist/numpy-2.2.1-cp312-cp312-macosx_11_0_arm64.whl#sha256=98dcab98cba1bcf13d5abbf11540090a12ccb7130977ca81fd455f2d1c8db3ff
+opt_einsum==3.4.0
+optax==0.2.4
+optimistix==0.0.10
+packaging==24.2
+pandas @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_4aifrweohv/croot/pandas_1732735109535/work/dist/pandas-2.2.3-cp312-cp312-macosx_11_0_arm64.whl#sha256=123f63647068e74a9e99f9fd6ab9ee71cd9f6d1c55fa82c75a587a95021910a5
+pillow @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_85xj2lenf1/croot/pillow_1738010251686/work
+progressbar2 @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/progressbar2_1699248234924/work
+pyparsing @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_65qfw6vkxg/croot/pyparsing_1731445528142/work
+python-dateutil @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_66ud1l42_h/croot/python-dateutil_1716495741162/work
+python-utils @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/python-utils_1699243020327/work
+pytz @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a4b76c83ik/croot/pytz_1713974318928/work
+scipy==1.15.1
+seaborn @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_74n8m1zz4r/croot/seaborn_1749110344248/work
+setuptools==72.1.0
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sympy==1.13.1
+toolz==1.0.0
+torch==2.5.1
+tqdm==4.67.1
+typeguard==2.13.3
+typing_extensions==4.12.2
+tzdata @ file:///croot/python-tzdata_1690578112552/work
+wheel==0.44.0
